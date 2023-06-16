@@ -1,6 +1,6 @@
-# Home-Architecture-Image-Classification
+# Architecture-Image-Classification
 
-## CLICK [HERE](robotscott94.github.io/Architecture-Image-Classification/) TO VIEW CLASSIFICATION APP
+## CLICK [HERE](robotscott94.github.io/Architecture-Image-Classification/) TO VIEW APP
 
 ## Purpose: 
 The purpose of this project is to use image classification of different architectural styles common in the Charlotte Metro area and sort them into two broad categories: Modern vs Traditional. 
@@ -43,5 +43,6 @@ Data Source: Kaggle (images of 100-200 per style)
 References: 
 
 -https://github.com/dumitrux/architectural-style-recognition/tree/master
+
 -https://www.tensorflow.org/tutorials/images/classification
 
